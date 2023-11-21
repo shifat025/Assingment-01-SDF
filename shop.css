@@ -1,0 +1,168 @@
+.cart{
+    color: white;
+}
+.navbar{
+    background-color: #1a187a;
+}
+.navbar-brand{
+    width: 20%;
+}
+.menu{
+    background-color:#1a187a;
+}
+.d-block{
+    width: 15%;
+}
+.slide-p{
+    width: 200px;
+    position: relative;
+    top: 100px;
+}
+.carousel-inner{
+    background: linear-gradient(60deg,white,#fcd3fa,#89a7f8);
+    
+}
+.c-button{
+    text-decoration: none;
+    color: white;
+    background-color: #211391;
+    padding: 8px 30px;
+    border: none;
+    position: relative;
+    bottom: 70px;
+}
+.macbok{
+    width: 200px !important;
+}
+.pro{
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+}
+.Iphone{
+    font-size: 50px;
+}
+.Iphone-b{
+    font-size: 70px;
+    font-weight: 500;
+    position: relative;
+    bottom: 30px;
+}
+.b{
+    font-size: 20px;
+    position: relative;
+    bottom: 70px;
+    font-weight: 500;
+}
+.camera{
+    font-weight: bold;
+}
+.card2{
+    width: auto;
+    height: 475px;
+}
+.card-img-top{
+    position: relative;
+    left: 25px;
+    
+}
+.love i{
+    font-size: 30px;
+    position: relative;
+    right: 10px;
+    top: 5px;
+}
+.M-button{
+    text-decoration: none;
+    color: white;
+    background-color: #211391;
+    padding: 8px 30px;
+    border: none;
+}
+.airpod-bg{
+    background-color: #ACC2D6;
+}
+.card-text-A{
+    color: white;
+
+}
+.apple-phonw{
+    font-weight: bold;
+    position: relative;
+    top: 15px;
+    left: 60px;
+}
+.buy{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 8px 50px;
+    border: none;
+}
+.box1{
+    margin: auto;
+    padding: 0;
+    background-color: #958ad4;
+    position: relative;
+    top: 50px;
+}
+.img1{
+    width: 350px;
+    position: relative;
+    right: 50px;
+}
+.img2{
+    width: 450px;
+    position: relative;
+    left: 150px;
+    
+}
+.eleven{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sale{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+.f-logo{
+    width: 50%;
+}
+.social{
+    color: white;
+}
+.list-1{
+    color: #6e6b75;
+}
+.list-2{
+    color: #6e6b75;
+    width: 200px !important;
+    align-items: center;
+    text-align: start;
+}
+
+footer{
+    margin-top: auto;
+    background-color: #0e071b;
+    padding: 60px 10%;
+}
+ul{
+    list-style: none;
+}
+.fotter-col{
+    width: 50%;
+}
+.li-1{
+    position: absolute;
+    left: 20px;
+}
+.kk{
+    width: 20px;
+    
+}
+.footer-img{
+    width: 2px;
+}
